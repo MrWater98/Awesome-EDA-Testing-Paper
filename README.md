@@ -71,7 +71,7 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 - IACR
 - EuroS&P <= 2020
 
-# - EXAMPLE↓
+# - (TO-DO)
 ## Content Labels
 
 - _`Composition`_
