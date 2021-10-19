@@ -63,7 +63,7 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 
 - [IEEE D&T(IEEE Design & Test of Computers)](#dt-j) <= 2021
 
-## [Other](#others)
+## Other
 
 - [ISPD(International Symposium on Physical Design)](#ets-o) <= 2021
 - [ISQED(International Symposium on Quality Electronic Design)](#isqed-o) <= 2021
