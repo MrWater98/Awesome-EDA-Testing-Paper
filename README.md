@@ -75,11 +75,14 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 # TO-DO
 ## Content Labels
 
-- _`Composition`_
-  - _`System`_
+- _`EDA`_
+  - _`RTL`_
   - _`Network`_, _`Wallets`_, _`Mining`_, _`Smart Contracts`_
-  - _`Consensus`_:
-    - _`BFT`_, _`PoW`_(Proof of Work), _`PoS`_(Proof of Stake), _`Proof-of-X`_, _`DAG`_
+- _`Testing`_
+  - _`Symbolic`_
+    -  _`Herustic`_, _`Concolic`_
+  - _`Formal Verification`_
+  - _`Fuzzing`_
 
 > - **Article Types**:
 >   - _`SoK`_(Systematization of Knowledge), _`Survey`_, _`Review`_
@@ -91,12 +94,20 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 
 ## USENIX Security (A)
 
-- 🎓 [On the Routing-Aware Peering against Network-Eclipse Attacks in Bitcoin](https://www.usenix.org/system/files/sec21fall-tran.pdf). Muoi Tran and Akshaye Shenoi, National University of Singapore; Min Suk Kang, KAIST. USENIX Security'21.
-  - Keyword: _`Network`_
-
+- 🎓 [Does logic locking work with EDA tools?](https://www.usenix.org/system/files/sec21-han-zhaokun.pdf). Zhaokun Han, Muhammad Yasin, and Jeyavijayan (JV) Rajendran, Texas A&M University. USENIX Security'21.
+  - Keyword: _`EDA`_
+- 🎓 [SmarTest: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution](https://www.usenix.org/system/files/sec21-so.pdf). Sunbeom So, Seongjoon Hong, and Hakjoo Oh, Korea University. USENIX Security'21.
+  - Keyword: _`Testing`_, _`Symbolic Execution`_
+- 🎓 [Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types](https://www.usenix.org/system/files/sec21-so.pdf). Sunbeom So, Seongjoon Hong, and Hakjoo Oh, Korea University. USENIX Security'21.
+  - Keyword: _`Testing`_, _`Symbolic Execution`_
+- 🎓 [Constraint-guided Directed Greybox Fuzzing]https://www.usenix.org/system/files/sec21-lee-gwangmu.pdf)Gwangmu Lee, Seoul National University; Woochul Shim, Samsung Research; Byoungyoung Lee, Seoul National University USENIX Security'21.
+  - Keyword: _`Testing`_, _`Fuzzing`_
 
 ## DAC (A)
 
-- 🎓 [Test](https://www.usenix.org/system/files/sec21fall-tran.pdf). Muoi Tran and Akshaye Shenoi, National University of Singapore; Min Suk Kang, KAIST. USENIX Security'21.
+- 🎓 [SAMPLE ARTICLE NAME](https://www.usenix.org/system/files/sec21fall-tran.pdf). Author 1, Author 2; Organization. Conference
   - Keyword: _`Network`_
 
+## Other (Pre-Published)
+- 🎓 [Fuzzing Hardware Like Software](https://arxiv.org/pdf/2102.02308.pdf). Timothy Trippel, Kang G. Shin, Alex Chernyakhovsky, Garret Kelly, Dominic Rizzo, Matthew Hicks, e Defense Advanced Research Projects Agency, National Science Foundation under Grant CNS. Arxiv
+  - Keyword: _`RTL`_,_`Fuzzing`_
