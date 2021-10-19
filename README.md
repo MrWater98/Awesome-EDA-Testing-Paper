@@ -109,5 +109,5 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
   - Keyword: _`Network`_
 
 ## Other (Pre-Published)
-- 🎓 [Fuzzing Hardware Like Software](https://arxiv.org/pdf/2102.02308.pdf). Timothy Trippel, Kang G. Shin, Alex Chernyakhovsky, Garret Kelly, Dominic Rizzo, Matthew Hicks, e Defense Advanced Research Projects Agency, National Science Foundation under Grant CNS. Arxiv
+- [Fuzzing Hardware Like Software](https://arxiv.org/pdf/2102.02308.pdf). Timothy Trippel, Kang G. Shin, Alex Chernyakhovsky, Garret Kelly, Dominic Rizzo, Matthew Hicks, e Defense Advanced Research Projects Agency, National Science Foundation under Grant CNS. Arxiv
   - Keyword: _`RTL`_,_`Fuzzing`_
