@@ -63,13 +63,14 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 
 - [IEEE D&T(IEEE Design & Test of Computers)](#dt-j) <= 2021
 
-### [Other](#others)
+## [Other](#others)
 
-- CoRR
-- T&I(Telematics and Informatics)
-- EC
-- IACR
-- EuroS&P <= 2020
+- [ISPD(International Symposium on Physical Design)](#ets-o) <= 2021
+- [ISQED(International Symposium on Quality Electronic Design)](#isqed-o) <= 2021
+- [ISLPED(International Symposium on Low Power Electronics and Desig)](#islped-o) <= 2021
+- [ICCD(International Conference on Computer Design )](#iccd-o) <= 2021
+- [ISCAS(IEEE International Symposium on Circuits and Systems)](#iscas-o) <= 2021
+- [SOCC(System-on-Chip Conference)](#socc-o) <= 2021
 
 # TO-DO
 ## Content Labels
@@ -92,3 +93,10 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 
 - 🎓 [On the Routing-Aware Peering against Network-Eclipse Attacks in Bitcoin](https://www.usenix.org/system/files/sec21fall-tran.pdf). Muoi Tran and Akshaye Shenoi, National University of Singapore; Min Suk Kang, KAIST. USENIX Security'21.
   - Keyword: _`Network`_
+
+
+## DAC (A)
+
+- 🎓 [Test](https://www.usenix.org/system/files/sec21fall-tran.pdf). Muoi Tran and Akshaye Shenoi, National University of Singapore; Min Suk Kang, KAIST. USENIX Security'21.
+  - Keyword: _`Network`_
+
