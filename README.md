@@ -100,7 +100,7 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
   - Keyword: _`Testing`_, _`Symbolic Execution`_
 - 🎓 [Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types](https://www.usenix.org/system/files/sec21-so.pdf). Sunbeom So, Seongjoon Hong, and Hakjoo Oh, Korea University. USENIX Security'21.
   - Keyword: _`Testing`_, _`Symbolic Execution`_
-- 🎓 [Constraint-guided Directed Greybox Fuzzing]https://www.usenix.org/system/files/sec21-lee-gwangmu.pdf)Gwangmu Lee, Seoul National University; Woochul Shim, Samsung Research; Byoungyoung Lee, Seoul National University USENIX Security'21.
+- 🎓 [Constraint-guided Directed Greybox Fuzzing](https://www.usenix.org/system/files/sec21-lee-gwangmu.pdf)Gwangmu Lee, Seoul National University; Woochul Shim, Samsung Research; Byoungyoung Lee, Seoul National University USENIX Security'21.
   - Keyword: _`Testing`_, _`Fuzzing`_
 
 ## DAC (A)
