@@ -11,24 +11,29 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 
 - **(TO-DO)**
 
-## Conference Information(EDA)
+## Conference Information
 
 ### CCF A
 
 > Conference
 
-- [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2021
-- [DAC(Design Automation Conference)](#dac-a) <= 2021
-- [ICCAD(International Conference On Computer Aided Design)](#iccad-a) <= 2021
+- [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2022
+- [DAC(Design Automation Conference)](#dac-a) <= 2022
 
 
 ### CCF B
 
 > Conference
 
+- [International Test Conference(ITC)](#itc-a) <= 2021
+- [VTS(IEEE VLSI Test Symposium)](#vts-a) <= 2021
 - [DATE(Design, Automation and Test in Europe Conference )](#date-b) <= 2021
-- [ASP-DAC(Asia and South Pacific Design Automation Conference)](#esorics-b) <= 2021
+- [ICCAD(International Conference On Computer Aided Design)](#iccad-a) <= 2021
 
+
+### CCF C
+
+- [ASP-DAC(Asia and South Pacific Design Automation Conference)](#esorics-b) <= 2021
 
 ### Journal
 
@@ -36,7 +41,6 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 - [IEEE VLSI(Transactions on Very Large Scale Integration)](#vlsi-j) <= 2021
 - [IEEE TC(IEEE Transactions on Computers)](#tx-j) <= 2021
 - [ACM TODAES(ACM Transactions on Design Automation of Electronic Systems)](#todaes-j) <= 2021
-- [ACM JETC(Emerging Technologies in Computing Systems)](#jetc-j) <= 2021 ?
 
 
 ## Conference Information(Testing)
@@ -45,8 +49,8 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 
 > Conference
 
-- [International Test Conference(ITC)](#itc-a) <= 2021
-- [VTS(IEEE VLSI Test Symposium)](#vts-a) <= 2021
+
+
 
 
 
@@ -96,18 +100,12 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 
 - 🎓 [Does logic locking work with EDA tools?](https://www.usenix.org/system/files/sec21-han-zhaokun.pdf). Zhaokun Han, Muhammad Yasin, and Jeyavijayan (JV) Rajendran, Texas A&M University. USENIX Security'21.
   - Keyword: _`EDA`_
-- 🎓 [SmarTest: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution](https://www.usenix.org/system/files/sec21-so.pdf). Sunbeom So, Seongjoon Hong, and Hakjoo Oh, Korea University. USENIX Security'21.
-  - Keyword: _`Testing`_, _`Symbolic Execution`_
 - 🎓 [Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types](https://www.usenix.org/system/files/sec21-so.pdf). Sunbeom So, Seongjoon Hong, and Hakjoo Oh, Korea University. USENIX Security'21.
   - Keyword: _`Testing`_, _`Symbolic Execution`_
-- 🎓 [Constraint-guided Directed Greybox Fuzzing](https://www.usenix.org/system/files/sec21-lee-gwangmu.pdf)Gwangmu Lee, Seoul National University; Woochul Shim, Samsung Research; Byoungyoung Lee, Seoul National University USENIX Security'21.
-  - Keyword: _`Testing`_, _`Fuzzing`_
 
 ## DAC (A)
 
 - 🎓 [SAMPLE ARTICLE NAME](https://www.usenix.org/system/files/sec21fall-tran.pdf). Author 1, Author 2; Organization. Conference
   - Keyword: _`Network`_
 
-## Other (Pre-Published)
-- [Fuzzing Hardware Like Software](https://arxiv.org/pdf/2102.02308.pdf). Timothy Trippel, Kang G. Shin, Alex Chernyakhovsky, Garret Kelly, Dominic Rizzo, Matthew Hicks, e Defense Advanced Research Projects Agency, National Science Foundation under Grant CNS. Arxiv
-  - Keyword: _`RTL`_,_`Fuzzing`_
+
