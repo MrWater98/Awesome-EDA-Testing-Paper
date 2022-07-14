@@ -116,8 +116,14 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 
 ## TCAD (A)
 
-- 🎓 [On Reverse Engineering-Based Hardware Trojan Detection](https://ieeexplore.ieee.org/document/7293657). Chongxi Bao; Domenic Forte; Ankur Srivastava; University of Maryland, College Park, MD, USA. TDSC' 2019
+- 🎓 [On Reverse Engineering-Based Hardware Trojan Detection](https://ieeexplore.ieee.org/document/7293657). Chongxi Bao; Domenic Forte; Ankur Srivastava; University of Maryland, College Park, MD, USA. TCAD' 2019
   - Keyword: _`Netlist Reverse Enginnering`_, _`Hardware Trojan`_
+
+- 🎓 [A synthesis-agnostic behavioral fault model for high gate-level fault coverage](https://ieeexplore.ieee.org/document/7459477). Anton Karputkin; Jaan Raik; Department of Computer Engineering, Tallinn University of Technology, Estonia. TCAD' 2016
+  - Keyword: _`Netlist Reverse Enginnering`_, _`Hardware Trojan`_
+
+- 🎓 [Clock Sequences for Increasing the Fault Coverage of Functional Test Sequences](https://ieeexplore.ieee.org/document/7459477). Irith Pomeranz; Department of Computer Engineering, School of Electrical and Computer Engineering, Purdue University, West Lafayette, IN, USA. TCAD' 2016
+  - Keyword: _`Functional Test Sequence`_, _`Gate-Level Fault Coverage`_
 
 ## DATE(B)
 
