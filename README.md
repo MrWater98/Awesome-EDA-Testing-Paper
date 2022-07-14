@@ -113,5 +113,5 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 - 🎓 [BMC+Fuzz: Efficient and Effective Test Generation](https://ieeexplore.ieee.org/document/9774672). Ravindra Metta, Raveendra Kumar Medicherla; TCS Research, Pune, India. DATE' 22
   - Keyword: _`BMC`_, _`fuzzing`_,_`Software Testing`_
 
-- 🎓 [On the Optimal OBDD Representation of 2-XOR Boolean Affine Spaces]([https://ieeexplore.ieee.org/document/9774672](https://ieeexplore.ieee.org/document/9774551)). Anna Bernasconi, Valentina Ciriani; Dep. of Compure Science, Università di Pisa, Italy. DATE' 22
+- 🎓 [On the Optimal OBDD Representation of 2-XOR Boolean Affine Spaces](https://ieeexplore.ieee.org/document/9774551). Anna Bernasconi, Valentina Ciriani; Dep. of Compure Science, Università di Pisa, Italy. DATE' 22
   - Keyword: _`OBDD`_, _`Optimization`_,_`SAT Theory`_
