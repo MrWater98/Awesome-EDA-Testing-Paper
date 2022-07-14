@@ -27,7 +27,7 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 
 - [International Test Conference(ITC)](#itc-a) <= 2021
 - [VTS(IEEE VLSI Test Symposium)](#vts-a) <= 2021
-- [DATE(Design, Automation and Test in Europe Conference )](#date-b) <= 2021
+- [DATE(Design, Automation and Test in Europe Conference )](#date-b) <= 2022
 - [ICCAD(International Conference On Computer Aided Design)](#iccad-a) <= 2021
 
 
@@ -108,4 +108,10 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 - 🎓 [SAMPLE ARTICLE NAME](https://www.usenix.org/system/files/sec21fall-tran.pdf). Author 1, Author 2; Organization. Conference
   - Keyword: _`Network`_
 
+## DATE
 
+- 🎓 [BMC+Fuzz: Efficient and Effective Test Generation](https://ieeexplore.ieee.org/document/9774672). Ravindra Metta, Raveendra Kumar Medicherla; TCS Research, Pune, India. DATE' 22
+  - Keyword: _`BMC`_, _`fuzzing`_,_`Software Testing`_
+
+- 🎓 [On the Optimal OBDD Representation of 2-XOR Boolean Affine Spaces]([https://ieeexplore.ieee.org/document/9774672](https://ieeexplore.ieee.org/document/9774551)). Anna Bernasconi, Valentina Ciriani; Dep. of Compure Science, Università di Pisa, Italy. DATE' 22
+  - Keyword: _`OBDD`_, _`Optimization`_,_`SAT Theory`_
