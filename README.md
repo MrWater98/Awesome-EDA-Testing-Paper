@@ -115,3 +115,12 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 
 - 🎓 [On the Optimal OBDD Representation of 2-XOR Boolean Affine Spaces](https://ieeexplore.ieee.org/document/9774551). Anna Bernasconi, Valentina Ciriani; Dep. of Compure Science, Università di Pisa, Italy. DATE' 22
   - Keyword: _`OBDD`_, _`Optimization`_,_`SAT Theory`_
+
+- 🎓 [RTSEC: Automated RTL Code Augmentation forHardware Security Enhancement](https://ieeexplore.ieee.org/document/9774745). Orlando Arias, Zhaoxiang Liu;Xiaolong Guo;Yier Jin;Shuo Wang; University of Florida. DATE' 22
+  - Keyword: _`RTL`_, _`Watermarkingn`_,_`Logic Locking`_
+
+- 🎓 [Reliability Analysis of a Spiking Neural Network Hardware Accelerator](https://ieeexplore.ieee.org/document/9774711). Zhaoxiang Liu; Orlando Arias; Weimin Fu; Yier Jin; Xiaolong Guo; University of Florida; DATE' 22
+  - Keyword: _`IP`_, _`IFT`_,_`Logic Locking`_, _`HardwareTrojan Detection`_
+
+- 🎓 [Design of AI Trojans for Evading Machine Learning-based Detection of Hardware Trojans](https://ieeexplore.ieee.org/document/9774654). Zhixin Pan;Prabhat Mishra; University of Florida; DATE' 22
+  - Keyword: _`Hardware Trojan`_, _`Backdoor Learning`_
