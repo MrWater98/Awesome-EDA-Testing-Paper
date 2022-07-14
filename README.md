@@ -19,6 +19,7 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 
 - [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2022
 - [DAC(Design Automation Conference)](#dac-a) <= 2022
+- [TDSC(IEEE Transactions on Dependable and Secure Computing)](#tdsc-a) <= 2022
 
 
 ### CCF B
@@ -98,7 +99,7 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 
 ## USENIX Security (A)
 
-- 🎓 [Does logic locking work with EDA tools?](https://www.usenix.org/system/files/sec21-han-zhaokun.pdf). Zhaokun Han, Muhammad Yasin, and Jeyavijayan (JV) Rajendran, Texas A&M University. USENIX Security'21.
+- 🎓 [Does logic locking work with EDA tools?](https://www.usenix.org/system/files/sec21-han-zhaokun.pdf). Zhaokun Han, Muhammad Yasin, and Jeyavijayan (JV) Rajendran, Texas A&M University. USENIX Security'21
   - Keyword: _`EDA`_
 - 🎓 [Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types](https://www.usenix.org/system/files/sec21-so.pdf). Sunbeom So, Seongjoon Hong, and Hakjoo Oh, Korea University. USENIX Security'21.
   - Keyword: _`Testing`_, _`Symbolic Execution`_
@@ -108,7 +109,14 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 - 🎓 [SAMPLE ARTICLE NAME](https://www.usenix.org/system/files/sec21fall-tran.pdf). Author 1, Author 2; Organization. Conference
   - Keyword: _`Network`_
 
-## DATE
+## TDSC (A)
+
+- 🎓 [HAL—The Missing Piece of the Puzzle for Hardware Reverse Engineering, Trojan Detection and Insertion](https://ieeexplore.ieee.org/document/8306831). Marc Fyrbiak; Sebastian Wallat; Pawel Swierczynski; Max Hoffmann; Sebastian Hoppach; Matthias Wilhelm; Tobias Weidlic; Horst Görtz Institute for IT Security, Ruhr-Universität Bochum, TDSC' 2019
+  - Keyword: _`Netlist Reverse Enginnering`_, _`Hardware Trojan`_
+
+## TCAD (A)
+
+## DATE(B)
 
 - 🎓 [BMC+Fuzz: Efficient and Effective Test Generation](https://ieeexplore.ieee.org/document/9774672). Ravindra Metta, Raveendra Kumar Medicherla; TCS Research, Pune, India. DATE' 22
   - Keyword: _`BMC`_, _`fuzzing`_,_`Software Testing`_
