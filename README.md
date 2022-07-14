@@ -116,6 +116,9 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 
 ## TCAD (A)
 
+- 🎓 [On Reverse Engineering-Based Hardware Trojan Detection](https://ieeexplore.ieee.org/document/7293657). Chongxi Bao; Domenic Forte; Ankur Srivastava; University of Maryland, College Park, MD, USA. TDSC' 2019
+  - Keyword: _`Netlist Reverse Enginnering`_, _`Hardware Trojan`_
+
 ## DATE(B)
 
 - 🎓 [BMC+Fuzz: Efficient and Effective Test Generation](https://ieeexplore.ieee.org/document/9774672). Ravindra Metta, Raveendra Kumar Medicherla; TCS Research, Pune, India. DATE' 22
